@@ -14,9 +14,24 @@ A modern, responsive **static e-commerce website** built using plain **HTML**, *
 
 ---
 
+## Some Screenshots
 
-![Screenshot](./images/screenshot%20(227).png)
-![Screenshot](./images/screenshot%20(228).png)
-![Screenshot](./images/screenshot%20(229).png)
-![Screenshot](./images/screenshot%20(230).png)
+![Screenshot](Screenshot%20(231).png)
+
+---
+![Screenshot](Screenshot%20(232).png)
+
+---
+![Screenshot](./Screenshot%20(233).png)
+
+---
+![Screenshot](./Screenshot%20(234).png)
+
+---
+![Screenshot](./Screenshot%20(235).png)
+
+---
+![Screenshot](./Screenshot%20(236).png)
+
+---
 
